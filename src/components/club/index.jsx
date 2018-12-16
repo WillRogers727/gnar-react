@@ -4,10 +4,7 @@ import {loadClubs} from '../../actions/club';
 import Rule from '../rule';
 import { 
 	Table, 
-	Button, 
-	Label, 
-	Input, 
-	FormText,
+	Button,
 	Modal, 
 	ModalHeader, 
 	ModalBody, 
